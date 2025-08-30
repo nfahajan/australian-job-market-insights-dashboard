@@ -42,8 +42,8 @@ pip install lxml
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd Project1
+   git clone https://github.com/nfahajan/australian-job-market-insights-dashboard
+   cd australian-job-market-insights-dashboard
    ```
 
 2. **Open the Jupyter notebook:**
