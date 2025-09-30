@@ -4,6 +4,8 @@
 
 This project analyzes the Australian job market for Data Analyst positions by scraping job postings from LinkedIn and performing comprehensive data analysis. The project provides insights into salary trends, required skills, company preferences, and geographical distribution of data analyst opportunities across Australia.
 
+<img src="/dashboard_screenshot.png?raw=true"/>
+
 ## Project Objectives
 
 - Scrape Data Analyst job postings from LinkedIn across Australia
